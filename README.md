@@ -14,4 +14,4 @@ Using this package is as simple as it gets.
 <img src="/Images/howto.jpg"></img>
 <img src="/Images/result.jpg"></img>
 
-### Example JSONs and scene is included for your convenience.
+### Example scene and JSONs are included for your convenience.
